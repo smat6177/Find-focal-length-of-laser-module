@@ -8,5 +8,5 @@ This program is used to find out the focal length of laser module on my cr-7 cr-
 <BR>三、Print From SD 這個檔案，每移動10mm，Z軸會上升1mm，共會在影印紙上雷雕出20個線段(Z從35上升到54)。 </BR>
 <BR>四、若仍沒看到線條，就直接再Print From SD 這個檔案一次，就會接著雕出另外20線段(55~74)。 </BR>
 <BR>五、檢視雷雕結果，即可找出焦距。 </BR>
-<BR>    以聖順的cr8為例，Z手動調整到35，再執行FindFocus20170130.gcode後，我認定有完整刻出的是z=43～51，所以我設定焦距為中間值 47 就可以了。 </BR>
+<BR>    以聖順的cr8為例，Z手動調整到35，再執行FindFocus20191025.gcode後，我認定有完整刻出的是z=43～51，所以我設定焦距為中間值 47 就可以了。 </BR>
 <BR>六、如果想要改變焦距，可手動旋轉雷射模組前端的透鏡來調整。</BR>
